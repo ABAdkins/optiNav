@@ -404,6 +404,7 @@ color foreground_material_light
 color grey
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color ic_icon_background
 color lightYellow
 color material_blue_grey_800
 color material_blue_grey_900
@@ -1311,6 +1312,9 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu menu
+mipmap ic_icon
+mipmap ic_icon_foreground
+mipmap ic_icon_round
 mipmap ic_launcher
 mipmap ic_launcher_round
 raw places_keep

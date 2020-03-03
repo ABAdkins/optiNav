@@ -103,9 +103,9 @@ MERGED from [com.android.volley:volley:1.1.1] C:\Users\Alyssa\.gradle\caches\tra
 	android:label
 		ADDED from C:\Users\Alyssa\optiNav\app\src\main\AndroidManifest.xml:15:9-41
 	android:roundIcon
-		ADDED from C:\Users\Alyssa\optiNav\app\src\main\AndroidManifest.xml:16:9-54
+		ADDED from C:\Users\Alyssa\optiNav\app\src\main\AndroidManifest.xml:16:9-50
 	android:icon
-		ADDED from C:\Users\Alyssa\optiNav\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from C:\Users\Alyssa\optiNav\app\src\main\AndroidManifest.xml:14:9-45
 	android:allowBackup
 		ADDED from C:\Users\Alyssa\optiNav\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
